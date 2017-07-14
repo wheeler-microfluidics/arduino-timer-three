@@ -1,3 +1,4 @@
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/arduino-timer-three?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/arduino-timer-three?branch=master&svg=true)
 #TimerThree Library#
 
 Paul Stoffregen's modified TimerThree.  This version provides 2 main benefits:
